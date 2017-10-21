@@ -1,0 +1,16 @@
+* What's this? 
+
+- This is a laptop stand and it's feet (optional).
+
+* How can I use it?
+
+- Print out a pair of stand_Xmm_Ydegree.stl.
+  - Choose X and Y depending on the thickness and the display angle of your laptop PC
+- If needed, print out 4 of foot.stl.
+  - They add about 10cm to the height.
+
+* Todo
+
+- Make this customizable.
+  - Pull request is welcomed :)
+    - https://github.com/Lunran/laptop_stand
